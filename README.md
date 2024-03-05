@@ -1,5 +1,5 @@
 
-# Quinoa WindTurbine Racer Demo
+# Quinoa WindTurbine Racer Test-Demo
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
